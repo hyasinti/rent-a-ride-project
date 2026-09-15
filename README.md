@@ -71,6 +71,6 @@ the production behavior.
 npm run build
 npm run lint
 ```
-
+..
 The existing app still has unrelated lint warnings in legacy admin UI files. The production
 Vite build is the current release gate until those are cleaned up.
